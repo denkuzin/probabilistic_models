@@ -1,1 +1,1 @@
-# probabilistic_models
+# machine learning / deep learning
