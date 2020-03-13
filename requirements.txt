@@ -1,1 +1,5 @@
 tensorflow==2.1.0
+matplotlib==3.2.0
+opencv-python==4.2.0.32
+pytest
+pandas==1.0.1
